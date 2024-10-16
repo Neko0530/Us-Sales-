@@ -1,7 +1,7 @@
 U.S. Sales Analysis - Tableau Dashboard
 Project Overview:
-
 This project involves creating an interactive Tableau dashboard to analyze U.S. sales data. The goal of this analysis is to provide insights into sales performance across different regions, products, and time periods. It helps businesses understand trends, identify high-performing products or regions, and make data-driven decisions to improve sales strategies.
+
 Key Features:
 
     Sales by Region: Visual representation of sales distribution across different states or regions.
